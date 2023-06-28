@@ -16,8 +16,11 @@ In addition to the results within `ETL_Mini_Project_NLeMunyon_JKovaleski`, scree
 ## Results
 
 ![image](https://github.com/jakekova/Crowdfunding_ETL/assets/61708246/24297e95-2ba0-4d64-b313-8cf918fc91b6)
+
 ![image](https://github.com/jakekova/Crowdfunding_ETL/assets/61708246/a6cfc584-6d7f-43fd-aa8f-48b15fe35f7a)
+
 ![image](https://github.com/jakekova/Crowdfunding_ETL/assets/61708246/ee3f3efe-9282-43f8-a8b2-6c3dc8260613)
+
 ![image](https://github.com/jakekova/Crowdfunding_ETL/assets/61708246/dd263526-487a-4eed-a9e9-7a73b830ab7e)
 
 ## References
